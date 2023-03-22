@@ -1,9 +1,10 @@
 # UTS_PAM_Rangga-Ndaru-Anggoro_120140019
 RUMUS (NDARU MUSIK) <br />
+<br />
 Link Download APK : <br />
 https://drive.google.com/drive/folders/1sb5HdObiqvXiVErbg-Zf7ZMoAD4u6hCH?usp=sharing
 
-#Rumus adalah aplikasi yang dapat memutar musik.
+#Rumus adalah aplikasi yang dapat memutar musik. <br />
 #Rumus Menggunakan 2 API Expo yaitu Splashscreen dan Audio
 
 1. Splash Screen :
